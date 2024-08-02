@@ -1,1 +1,5 @@
 # Phishing-Campaign-Dashboard-using-Power-BI
+
+Phishing is an example of a highly effective form of cybercrime that enables criminals to deceive users and steal important data. To combat this growing issue, organizations must employ comprehensive and effective strategies. Attacks are reported each year, and a reduction in the number of such attacks is unlikely to occur in the near future. Simulated phishing campaigns are a powerful tool to assess and enhance an organization's resilience to these threats. This report introduces three specialized BI dashboards designed to provide valuable insights into simulated phishing campaigns, targeting distinct user groups: Phishing Campaign Managers, Individual Users, and HR Managers.
+
+These dashboards offer a detailed analysis of campaign performance, user behaviour, and employee susceptibility, enabling stakeholders to identify weaknesses, tailor training programs, and implement targeted interventions. By leveraging these insights, organizations can significantly strengthen their cybersecurity defences and foster a culture of awareness and vigilance.
